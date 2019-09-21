@@ -300,9 +300,8 @@ chordParser =
 
 **CODE**
 [github.com/Arkham/elm-chords](https://github.com/Arkham/elm-chords)
+[github.com/Arkham/lambdale-2019](https://github.com/Arkham/lambdale-2019)
 
 **DEMO**
 [ellie-app.com/5wDzdJyjQ6Ca1](https://ellie-app.com/5wDzdJyjQ6Ca1)
-
-**LIVE DEMO**
 [ellie-app.com/6HZqvnz8Py4a1](https://ellie-app.com/6HZqvnz8Py4a1)
